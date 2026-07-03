@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=MasahiroYoshino&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bio-signal%20Processing%20%C3%97%20Machine%20Learning%20%C3%97%20Web%20Development&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Masahiro&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bio-signal%20Processing%20%C3%97%20Machine%20Learning%20%C3%97%20Web%20Development&descAlignY=58&descSize=18" width="100%"/>
 
 情報通信・コンピュータサイエンス専攻の学生です。<br/>
 生体信号処理・機械学習・Web開発を軸に、研究とものづくりの両方に取り組んでいます。
@@ -112,6 +112,22 @@
 
 <br/>
 
+### 📖 輪読・技術発表資料
+
+研究室やゼミの輪読会などで作成した技術発表資料です。
+
+<div align="center">
+
+| Repository | 内容 |
+|---|---|
+| [![LDPC_reading](https://img.shields.io/badge/GitHub-LDPC__reading-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yossiiiii-m/LDPC_reading) | LDPC符号に関する発表資料 |
+| [![GNN_reading](https://img.shields.io/badge/GitHub-GNN__reading-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yossiiiii-m/GNN_reading) | GNN（グラフニューラルネットワーク）に関する発表資料 |
+| [![research_presentation](https://img.shields.io/badge/GitHub-research__presentation-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yossiiiii-m/research_presentation) | 研究発表資料 |
+
+</div>
+
+<br/>
+
 ## 📅 Timeline
 
 | 年 | 出来事 |
@@ -123,3 +139,5 @@
 
 <br/>
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
